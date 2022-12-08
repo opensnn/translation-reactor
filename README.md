@@ -12,7 +12,7 @@ Project Reactor 各个项目的中文版文档。
 | 名称           | 版本             |状态| 原文网址                                                         |
 |--------------|----------------|---|--------------------------------------------------------------|
 | Reactor Core | 3.2.11.RELEASE |已完成| https://projectreactor.io/docs/core/3.2.11.release/reference |
-| Reactor Core | 3.4.19       | 进行中|https://projectreactor.io/docs/core/3.4.19/reference|
+| Reactor Core | 3.4.19       | 已完成|https://projectreactor.io/docs/core/3.4.19/reference|
 
 
 # 欢迎沟通交流
